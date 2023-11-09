@@ -2,31 +2,31 @@
 
 Modern autonomous vehicles operatate on multiple layers of abstraction, understanding robotics and autonomy from first principles requires building from the fundamentals.
 
-#### Topics 
+## Topics 
 
 **In-progress**
 
-#### Section 1: Hardware
+### Section 1: Hardware
 
 - What's an actuator?
 - How to interface with a robot
 
-#### Section 2: Middleware
+### Section 2: Middleware
 
 - What is ROS?
 
-#### Section 3: Perception
+### Section 3: Perception
 
 - Computer Vision
   - Object Recognition and Detection
   - Image segmentation
 
-#### Section 4: Mapping and Localization
+### Section 4: Mapping and Localization
 
 - Mapping Techniques 
   - SLAM
 
-#### Section 5: Kinematics and Control
+### Section 5: Kinematics and Control
 
 - Control Algorithms
   - Pure Pursuit
