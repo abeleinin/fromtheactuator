@@ -1,36 +1,50 @@
 # From the Actuator to Self-Driving
 
+Inspired by [From the Transistor](https://github.com/geohot/fromthetransistor)
+
 Modern autonomous vehicles operatate on multiple layers of abstraction, understanding robotics and autonomy from first principles requires building from the fundamentals.
 
 ## Topics 
 
-**In-progress**
+## WIP
 
 ### Section 1: Hardware
 
 - What's an actuator?
-- How to interface with a robot
+- Basic sensor types.
+- How to interface with a robot: hardware communication protocols and wiring
 
 ### Section 2: Middleware
 
 - What is ROS?
+- Interfacing ROS with hardware and simulating robots using Gazebo
 
 ### Section 3: Perception
 
 - Computer Vision
-  - Object Recognition and Detection
-  - Image segmentation
+  - Object recognition and detection algorithms: YOLO, SSD, Faster R-CNN
+  - Image segmentation: semantic and instance segmentation
 
 ### Section 4: Mapping and Localization
 
 - Mapping Techniques 
-  - SLAM
+    - Grid maps
+    - Occupancy grids
+    - Elevation maps
+- What is localization?
+- Simultaneous Localization and Mapping (SLAM)
 
 ### Section 5: Kinematics and Control
 
+- Basic Kinematics from Intro to Physics course
 - Control Algorithms
   - Pure Pursuit
   - Linear–quadratic regulator (LQR)
-  - Model Predictice Controller (MPC)
+  - Model Predictive Controller (MPC)
   - Reinforcement Learning using DQN [[Paper](http://cs231n.stanford.edu/reports/2016/pdfs/112_Report.pdf)]
   - End-to-end control
+
+### Section 6: Integration
+
+- Building an autonomous stack
+
