@@ -2,15 +2,13 @@
 
 Inspired by [From the Transistor](https://github.com/geohot/fromthetransistor)
 
-Modern autonomous vehicles operatate on multiple layers of abstraction, understanding robotics and autonomy from first principles requires building from the fundamentals.
+Modern autonomous vehicles operate on multiple layers of abstraction, understanding robotics and autonomy from first principles requires building from the fundamentals.
 
 ## Topics 
 
-## WIP
-
 ### Section 1: Hardware
 
-- What's an actuator?
+- What's an actuator? 
 - Basic sensor types.
 - How to interface with a robot: hardware communication protocols and wiring
 
